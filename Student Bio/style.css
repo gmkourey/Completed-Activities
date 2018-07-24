@@ -1,0 +1,28 @@
+h1 {
+    background-color:black;
+    color:white;
+    text-align:center;
+    margin-bottom:0px;
+    line-height:60px;
+}
+header {
+    display:inline-block;
+    width:20%;
+    margin-left:50px;
+    float:left;
+}
+.bio {
+    display:inline-block;
+    width:40%;
+    float:left;
+    margin-top:49px;
+}
+.contactinfo {
+    display:inline-block;
+    margin-left:100px;
+    float:left;
+}
+div {
+    background-color:lightgrey;
+    height:300px;
+}
